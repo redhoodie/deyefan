@@ -86,8 +86,8 @@ The project uses the following GPIO pins on the ESP32:
 *Source: [WEMOS Relay Shield Documentation](https://www.wemos.cc/en/latest/d1_mini_shield/relay.html)*
 
 ### TFT 1.4" Display Shield
-![TFT Shield Top](https://www.wemos.cc/en/latest/_static/d1_shields/tft_1_4_v1.0.0_1_16x16.jpg)
-![TFT Shield Bottom](https://www.wemos.cc/en/latest/_static/d1_shields/tft_1_4_v1.0.0_2_16x16.jpg)
+![TFT Shield Top](https://www.wemos.cc/en/latest/_images/tft_1.44_v1.0.0_1_16x16.jpg)
+![TFT Shield Bottom](https://www.wemos.cc/en/latest/_static/d1_shields/tft_1.44_v1.0.0_2_16x16.jpg)
 
 **Pin Connections (SPI):**
 - D5 (GPIO 14) → CS
